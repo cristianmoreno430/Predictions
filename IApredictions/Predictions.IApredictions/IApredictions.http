@@ -1,0 +1,6 @@
+@Predictions.Web_HostAddress = http://localhost:5183
+
+GET {{Predictions.Web_HostAddress}}/IApredictions/weatherforecast/
+Accept: application/json
+
+###
